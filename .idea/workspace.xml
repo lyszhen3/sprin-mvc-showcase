@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bf2a5d2-ac32-4021-a5b9-a3d7041d3c03" name="Default" comment="" />
+    <list default="true" id="4bf2a5d2-ac32-4021-a5b9-a3d7041d3c03" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
@@ -28,6 +30,16 @@
                 <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" />
                 <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-514" />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -482,12 +494,12 @@
       <workItem from="1527143058310" duration="190000" />
       <workItem from="1527143306369" duration="9442000" />
       <workItem from="1527165656666" duration="3128000" />
-      <workItem from="1527208952258" duration="521000" />
+      <workItem from="1527208952258" duration="862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13281000" />
+    <option name="totallyTimeSpent" value="13622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
@@ -907,6 +919,14 @@
             <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" />
             <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-514" />
+          <second_editor />
         </state>
       </provider>
     </entry>
